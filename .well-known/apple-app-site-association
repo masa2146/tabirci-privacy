@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "REPLACE_TEAM_ID.com.ruyatabiri.ruyaTabiriApp",
+        "paths": ["/ruya/*", "/en/dream/*", "/ar/hulm/*"]
+      }
+    ]
+  }
+}

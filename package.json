@@ -1,0 +1,10 @@
+{
+  "name": "onirist-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Onirist statik içerik SEO sitesi — rüya sembolü sayfaları üretici.",
+  "scripts": {
+    "build": "node build/generate.mjs"
+  }
+}
